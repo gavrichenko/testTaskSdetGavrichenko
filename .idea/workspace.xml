@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa1977bf-6ca7-453c-88ca-982fbb931cdb" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BasePage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/BasePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="until.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/until.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="404" column="27" lean-forward="false" selection-start-line="404" selection-start-column="8" selection-end-line="404" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TrackingCardPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/TrackingCardPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Log.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Log.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Pages/HomePage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-646">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_test_.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/_test_.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-82">
+              <caret line="309" column="7" lean-forward="false" selection-start-line="309" selection-start-column="7" selection-end-line="309" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_test_copy.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trunk!!/_test_copy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="358" column="39" lean-forward="true" selection-start-line="358" selection-start-column="39" selection-end-line="358" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/testing/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfigParser.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/webdriverio/build/lib/utils/ConfigParser.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="68" column="13" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>max</find>
+      <find>getTitl</find>
+      <find>mocha</find>
+      <find>get_tex</find>
+      <find>pageHelp_text</find>
+      <find>Бизнесс</find>
+      <find>setsiz</find>
+      <find>find</find>
+      <find>this.d</find>
+      <find>log.start()</find>
+      <find>moch</find>
+      <find>start(</find>
+      <find>quit</find>
+      <find>before</find>
+      <find>funct</find>
+      <find>log.log</find>
+      <find>afterEach</find>
+      <find>func</find>
+      <find>slee</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>getTitle</replace>
+      <replace>d</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/ololo_tes.js" />
+        <option value="$PROJECT_DIR$/pages/opisanie.js" />
+        <option value="$PROJECT_DIR$/home.js" />
+        <option value="$PROJECT_DIR$/run_test.js" />
+        <option value="$PROJECT_DIR$/Pages/test_go.js" />
+        <option value="$PROJECT_DIR$/trunk!!/clases.js" />
+        <option value="$PROJECT_DIR$/Pages/logging.js" />
+        <option value="$PROJECT_DIR$/log/logging.js" />
+        <option value="$PROJECT_DIR$/trunk!!/IO.js" />
+        <option value="$PROJECT_DIR$/log/logging2.js" />
+        <option value="$PROJECT_DIR$/log.txt" />
+        <option value="$PROJECT_DIR$/trunk!!/home.js" />
+        <option value="$PROJECT_DIR$/Test/test_go.js" />
+        <option value="$PROJECT_DIR$/Test/Log.js" />
+        <option value="$PROJECT_DIR$/Test/newLog.js" />
+        <option value="$PROJECT_DIR$/trunk!!/logging2.js" />
+        <option value="$PROJECT_DIR$/Test/_test_.js" />
+        <option value="$PROJECT_DIR$/Test/test_smoke.js" />
+        <option value="$PROJECT_DIR$/Pages/Log.js" />
+        <option value="$PROJECT_DIR$/trunk!!/ololo.js" />
+        <option value="$PROJECT_DIR$/BasePage.js" />
+        <option value="$PROJECT_DIR$/Pages/LoginPage.js" />
+        <option value="$PROJECT_DIR$/Pages/MobileSizePage.js" />
+        <option value="$PROJECT_DIR$/Pages/TrackingCardPage.js" />
+        <option value="$PROJECT_DIR$/test/Log.js" />
+        <option value="$PROJECT_DIR$/trunk!!/_test_copy.js" />
+        <option value="$PROJECT_DIR$/Pages/HomePage.js" />
+        <option value="$PROJECT_DIR$/Pages/BasePage.js" />
+        <option value="$PROJECT_DIR$/test/_test_.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trunk!!" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEW_TEST" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="C:\Users\ia.gavrichenko\WebstormProjects\test\node_modules\mocha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\NEW_TEST\trunk!!" />
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\NEW_TEST\test" />
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\NEW_TEST" />
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\test\trunk!!" />
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\test\Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\NEW_TEST\test" />
+      <recent name="C:\Users\ia.gavrichenko\WebstormProjects\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Mocha.test\_test_.js">
+    <configuration default="false" name="Автотесты сайта www.pochta.ru/.Проверка посылки (поиск, удаление, восстановление)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test/_test_.js</test-file>
+      <test-names>
+        <name value="Автотесты сайта www.pochta.ru/" />
+        <name value="Проверка посылки (поиск, удаление, восстановление)" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="Автотесты сайта www.pochta.ru/.Проверка посылки (поиск, удаление, восстановление).Удаление" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/_test_.js</test-file>
+      <test-names>
+        <name value="Автотесты сайта www.pochta.ru/" />
+        <name value="Проверка посылки (поиск, удаление, восстановление)" />
+        <name value="Удаление" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="Автотесты сайта www.pochta.ru/.Тесты авторизации.Авторизация с главной страницы (SMOKE)" type="mocha-javascript-test-runner" factoryName="Mocha" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/_test_.js</test-file>
+      <test-names>
+        <name value="Автотесты сайта www.pochta.ru/" />
+        <name value="Тесты авторизации" />
+        <name value="Авторизация с главной страницы (SMOKE)" />
+      </test-names>
+      <method />
+    </configuration>
+    <configuration default="false" name="ololo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="ololo.js" working-dir="$PROJECT_DIR$/trunk!!">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="test\_test_.js" type="mocha-javascript-test-runner" factoryName="Mocha" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/test/_test_.js</test-file>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Mocha.test\_test_.js" />
+      <item index="1" class="java.lang.String" itemvalue="Mocha.Автотесты сайта www.pochta.ru/.Проверка посылки (поиск, удаление, восстановление)" />
+      <item index="2" class="java.lang.String" itemvalue="Mocha.Автотесты сайта www.pochta.ru/.Проверка посылки (поиск, удаление, восстановление).Удаление" />
+      <item index="3" class="java.lang.String" itemvalue="Mocha.Автотесты сайта www.pochta.ru/.Тесты авторизации.Авторизация с главной страницы (SMOKE)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.ololo.js" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.ololo.js" />
+        <item index="1" class="java.lang.String" itemvalue="Mocha.Автотесты сайта www.pochta.ru/.Тесты авторизации.Авторизация с главной страницы (SMOKE)" />
+        <item index="2" class="java.lang.String" itemvalue="Mocha.Автотесты сайта www.pochta.ru/.Проверка посылки (поиск, удаление, восстановление).Удаление" />
+        <item index="3" class="java.lang.String" itemvalue="Mocha.Автотесты сайта www.pochta.ru/.Проверка посылки (поиск, удаление, восстановление)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa1977bf-6ca7-453c-88ca-982fbb931cdb" name="Default" comment="" />
+      <created>1498669997835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1498669997835</updated>
+      <workItem from="1498669999744" duration="8325000" />
+      <workItem from="1498839291304" duration="6963000" />
+      <workItem from="1499197838053" duration="1371000" />
+      <workItem from="1499788201509" duration="2350000" />
+      <workItem from="1499806233099" duration="1284000" />
+      <workItem from="1499878246541" duration="2369000" />
+      <workItem from="1499960623634" duration="10197000" />
+      <workItem from="1499980563467" duration="3095000" />
+      <workItem from="1500201737203" duration="11449000" />
+      <workItem from="1500215998134" duration="10187000" />
+      <workItem from="1500307773897" duration="6255000" />
+      <workItem from="1500392988887" duration="16796000" />
+      <workItem from="1500482678167" duration="1463000" />
+      <workItem from="1500492222904" duration="10044000" />
+      <workItem from="1500724184832" duration="20499000" />
+      <workItem from="1500914584727" duration="12354000" />
+      <workItem from="1501011282417" duration="7086000" />
+      <workItem from="1501058860610" duration="28657000" />
+      <workItem from="1502389854067" duration="6279000" />
+      <workItem from="1502735700197" duration="14891000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="test__test__js - 2017.08.15 at 01h 35m 46s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 42m 14s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 48m 48s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 51m 07s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 52m 09s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 53m 36s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 54m 26s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 54m 45s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 56m 39s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="test__test__js - 2017.08.15 at 01h 57m 41s.xml">
+      <configuration name="test\_test_.js" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="181914000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13277134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30844155" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30844155" sideWeight="0.49789253" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="1101" y="115" width="768" height="705" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44588745" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="746" y="158" width="833" height="810" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30844155" sideWeight="0.5021075" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="746" y="158" width="833" height="810" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30844155" sideWeight="0.49789253" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="1113" y="55" width="556" height="705" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13277134" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3285528" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44623655" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/log/2017-7-16 14h 47m 22s 11ms.txt" />
+    <entry file="file://$PROJECT_DIR$/log/2017-7-16 14h 47m 39s 523ms.txt" />
+    <entry file="file://$PROJECT_DIR$/utf8" />
+    <entry file="file://$PROJECT_DIR$/log/sdf.txt" />
+    <entry file="file://$PROJECT_DIR$/log/16.txt" />
+    <entry file="file://$PROJECT_DIR$/log/2017-7-16 16h 6m 39s 630ms.txt" />
+    <entry file="file://$PROJECT_DIR$/2017-7-16 16h 8m 42s 822ms.txt" />
+    <entry file="file://$PROJECT_DIR$/2017-7-16 16h 8m 42s 824ms.txt" />
+    <entry file="file://$PROJECT_DIR$/2017-7-16 16h 8m 42s 821ms.txt" />
+    <entry file="file://$PROJECT_DIR$/2017-7-16 16h 8m 38s 52ms.txt" />
+    <entry file="file://$PROJECT_DIR$/2017-7-16 16h 10m 34s 800ms.txt" />
+    <entry file="file://$PROJECT_DIR$/2017-7-16 16h 10m 34s 799ms.txt" />
+    <entry file="file://$PROJECT_DIR$/log/log.txt" />
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/ia.gavrichenko/WebstormProjects/test/Pages/BasePage.js">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/Pages/BasePage.js</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/Pages/BasePage.js#index.js#128;C:/Users/ia.gavrichenko/WebstormProjects/test/Pages/BasePage.js#webdriver#56;</node>
+            <node x="" y="">$PROJECT_DIR$/node_modules/selenium-webdriver/index.js</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="97.0" y="94.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webdriver-sizzle/lib/webdriver_sizzle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img.png" />
+    <entry file="file://$PROJECT_DIR$/../webdriverIO_test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="691" column="0" lean-forward="false" selection-start-line="691" selection-start-column="0" selection-end-line="691" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk!!/home.js" />
+    <entry file="file://$PROJECT_DIR$/Test/test_go.js" />
+    <entry file="file://$PROJECT_DIR$/Test/newLog.js" />
+    <entry file="file://$PROJECT_DIR$/trunk!!/logging.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/chai/chai.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14756">
+          <caret line="868" column="11" lean-forward="false" selection-start-line="868" selection-start-column="6" selection-end-line="868" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="57" lean-forward="true" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk!!/logging2.js" />
+    <entry file="file://$PROJECT_DIR$/test/Log_func.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="2195" column="19" lean-forward="false" selection-start-line="2195" selection-start-column="19" selection-end-line="2195" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/test_smoke.js" />
+    <entry file="file://$PROJECT_DIR$/LOG/26.7.2017 12h 0m 10s 418ms.txt" />
+    <entry file="file://$PROJECT_DIR$/LOG/26.7.2017 12h 9m 59s 323ms.txt" />
+    <entry file="file://$PROJECT_DIR$/LOG/26.7.2017 12h 17m 53s 677ms.txt" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Log_func.js" />
+    <entry file="file://$PROJECT_DIR$/LOG/26.7.2017 14h 52m 21s 836ms.txt" />
+    <entry file="file://$PROJECT_DIR$/BasePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk!!/ololo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk!!/Log_func.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk!!/read.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/LoginPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/MobileSizePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/webdriverio/build/lib/utils/ConfigParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="68" column="13" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/webdriver.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/testing/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="286" column="0" lean-forward="false" selection-start-line="286" selection-start-column="0" selection-end-line="286" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Log.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/until.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="404" column="27" lean-forward="false" selection-start-line="404" selection-start-column="8" selection-end-line="404" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/BasePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/HomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/TrackingCardPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trunk!!/_test_copy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="358" column="39" lean-forward="true" selection-start-line="358" selection-start-column="39" selection-end-line="358" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/_test_.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="309" column="7" lean-forward="false" selection-start-line="309" selection-start-column="7" selection-end-line="309" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
